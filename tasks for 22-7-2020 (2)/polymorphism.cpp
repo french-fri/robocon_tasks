@@ -2,6 +2,7 @@
 using namespace std; 
 
 //RUNTIME POLYMORPHISM
+// Function overriding is an example of the same 
 
 class quadilateral
 {
